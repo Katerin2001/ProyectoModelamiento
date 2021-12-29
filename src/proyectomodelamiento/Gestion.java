@@ -20,6 +20,8 @@ public class Gestion extends javax.swing.JFrame {
     
     
     String apellido = "";
+    
+    String soyYo = "Kevin";
     /**
      * Creates new form Gestion
      */
@@ -221,7 +223,7 @@ public class Gestion extends javax.swing.JFrame {
                                 .addGap(7, 7, 7)
                                 .addComponent(jLabel2)
                                 .addGap(18, 18, 18)
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(jLabel3)
                                     .addComponent(jtxtDireccion, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                             .addGroup(layout.createSequentialGroup()
