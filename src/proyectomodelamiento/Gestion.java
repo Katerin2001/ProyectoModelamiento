@@ -15,6 +15,8 @@ public class Gestion extends javax.swing.JFrame {
     DefaultTableModel modelo;
     int filas;
 
+    
+    String nombre = "";
     /**
      * Creates new form Gestion
      */
