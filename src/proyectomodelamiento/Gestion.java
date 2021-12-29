@@ -17,6 +17,9 @@ public class Gestion extends javax.swing.JFrame {
 
     
     String nombre = "";
+    
+    
+    String apellido = "";
     /**
      * Creates new form Gestion
      */
